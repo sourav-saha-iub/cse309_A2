@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+
+
+
+body{
+    margin: 0px;
+}
+.n1{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    color: white;
+}
+.n1 li{
+    margin: 10px;
+    list-style: none;
+    display: inline;
+    
+}
+.n1 img{
+    width: 35px;
+}
+.n1 span{
+    border: 1px solid rgb(243, 243, 243);
+    padding: 10px;
+    border-radius: 50px;
+} 
+#d1{
+    background-image: url("./banner2.jpg");
+    height: 500px;
+    width: 100%;
+    
+    background-size: cover;
+    background-position: center;
+    
+}
+
+#d2{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#d2 h3{
+    font-size: 20px;
+    font-family: 'Marck Script', cursive;
+    text-align: center;
+    color: rgb(213, 213, 213);
+    letter-spacing: 2px;
+    
+    
+}
+#d2 h4 {
+    text-align: center;
+}
+#d2 h4 a{
+    text-decoration: none;
+    background: #27cfa5aa;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+
+}
+
+#d2 h1{
+    margin-top: 0px;
+    font-size: 70px;
+    color: white;
+    
+}
+
+#dd2 h1{
+    text-align: center;
+    margin-top: 70px;
+}
+.dd3{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+.dd3 p{
+    width: 550px;
+    /* font-size: 20px; */
+    
+}
+.dd4{
+    font-family: 'Marck Script', cursive;
+}
+
+.dd3 a{
+    text-decoration: none;
+}
+
+.im{
+    width: 500px;
+    
+}
+#dd5{
+    display: flex;
+    justify-content: center;
+    
+   
+}
+.dd6{
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    
+
+}
+.dd7 h1{
+    text-align: center;
+    color: #27cfa5aa;;
+
+}
+.dd7 p{
+    text-align: center;
+    width: 400px;
+
+
+}
+.dd7 h4 {
+    text-align: center;
+    
+}
+.dd7 a {
+    text-decoration: none;
+    color: #27cfa5aa;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    background: #262626;
+    margin-bottom: 0%;
+
+}
+.logo img{
+    width: 30px;
+    margin: 10px;
+    border-radius: 50px;
+}
+.footer{
+    height: 100px;
+    text-align: center;
+    background: #000;
+    color: white;
+    padding-top:10px ;
+
+}
+.footer a{
+    color: #179f7dd5;
+}
